@@ -1,0 +1,18 @@
+svg{
+    fill: #935a9f;
+    width: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    border: 1px solid #935a9f;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+svg:hover{
+    fill: #b081ba;
+    border: 1px solid #b081ba;
+}
+
+.navbar{
+    margin-bottom: 20px;
+}
